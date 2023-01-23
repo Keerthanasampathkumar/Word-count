@@ -38,10 +38,13 @@ wordcount()
 ### OUTPUT:
 
 MyFile.txt
-![output1](https://user-images.githubusercontent.com/119477890/214042514-e7c74f9c-d8bf-41a0-ab24-0a1c9e25cd4f.png)
 
-output
-![output](https://user-images.githubusercontent.com/119477890/214042550-cbd6f603-b521-4202-90ee-5b43332076a0.png)
+![o](https://user-images.githubusercontent.com/119477890/214045042-5e6d0345-d293-49d6-af51-fb07cf62bb04.png)
+
+Output
+
+![k](https://user-images.githubusercontent.com/119477890/214045112-5b8d0a84-5683-4e08-aeda-ad558e300f26.png)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
