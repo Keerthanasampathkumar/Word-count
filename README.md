@@ -36,13 +36,15 @@ wordcount()
 ```
 
 ### OUTPUT:
+
 MyFile.txt
-![output1](https://user-images.githubusercontent.com/119477890/214043919-21812b71-3222-4d0b-9748-9fa38e30d889.png)
 
-Output
-![output2](https://user-images.githubusercontent.com/119477890/214044074-cdb1fbee-e135-4f96-80d0-eb8b83ee688a.png)
 
-![output2 (1)](https://user-images.githubusercontent.com/119477890/214044107-b0fb44e2-dab9-4395-bbd7-87d4ed462f48.png)
+![output1](https://user-images.githubusercontent.com/119477890/214042514-e7c74f9c-d8bf-41a0-ab24-0a1c9e25cd4f.png)
+
+output
+
+![k](https://user-images.githubusercontent.com/119477890/214044485-542ec1ae-2eb2-4ee1-adec-0026aa7ff95a.png)
 
 
 ## RESULT:
