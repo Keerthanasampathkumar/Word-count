@@ -38,6 +38,8 @@ wordcount()
 ### OUTPUT:
 
 MyFile.txt
+
+
 ![output1](https://user-images.githubusercontent.com/119477890/214042514-e7c74f9c-d8bf-41a0-ab24-0a1c9e25cd4f.png)
 
 
