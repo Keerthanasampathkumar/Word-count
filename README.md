@@ -25,6 +25,8 @@ Print the output.
 
 ## PROGRAM:
 ```
+#Developed by: KEERTHANA S
+#RegisterNumber:22009006
 def wordcount():
   count = 0
   with open("MyFile.txt","r") as f2:
